@@ -13,9 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  if "I love you grandma".upcase
-    puts "I love you too pumpkin!".upcase
+  if "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!""
   else
-    puts "Huh?! Speak up, sonny!".upcase
+    puts "Huh?! Speak up, sonny!"
   end
 end
