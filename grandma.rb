@@ -15,7 +15,9 @@
 def speak_to_grandma
   if "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+elsif
+  puts "HUH?! SPEAK UP, SONNY!"
   else
-    puts "Huh?! Speak up, sonny!"
+    puts "HUH?! SPEAK UP, SONNY!"
   end
 end
